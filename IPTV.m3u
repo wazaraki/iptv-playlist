@@ -1,0 +1,289 @@
+#EXTM3U
+
+#EXTINF:-1,LA SEXTA
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1,ANTENA 3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1,TELESUR
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/playlist.m3u8
+
+#EXTINF:-1,VTV
+rtsp://cast.streamingconnect.tv:1935/vtvmoviles2/vtvmoviles2
+
+#EXTINF:1,RT EN ESPAÑOL
+http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/playlist.m3u8
+
+#EXTINF:-1,FOX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=85&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FOX LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
+
+#EXTINF:-1,FOX1 HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=297&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FOX ACTION
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=301&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FOX MOVIE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=305&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,SONY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=89&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,WARNER B
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=93&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISNEY CHANNEL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISNEY JR
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=201&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISNEY XD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=225&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,UNIVERSAL HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=97&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=137&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FX HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=101&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=145&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+
+#EXTINF:-1,A&E
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=105&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,AXN
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=109&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TRU
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=113&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=117&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,UNICABLE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=121&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,BBC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=129&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,E!
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=134&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,SYFY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=141&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISCOVERY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=257&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISCOVERY TURBO
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=285&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=281&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISCOVERY SCI
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=277&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISCOVERY THEATER
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=241&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISCOVERY KIDS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=193&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=153&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,INFINITO
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=157&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,GOURMET
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=161&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,GLITZ
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=165&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISTRITO COMEDIA
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=173&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TBS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=177&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,CASA
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=181&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TELENOVELAS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=185&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,CBEEBIES
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=197&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,NICK
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=217&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,NICK JR
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=205&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,NICKTOONS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=469&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TIIN
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=233&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TOONCAST
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=237&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,HISTORY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=245&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=269&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,NATGEO WILD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=249&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TLC HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=253&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TLC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=289&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=261&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,HOME & HEALT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=265&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,LIFETIME (BIO)
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=273&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,WOBI
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=293&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,CINECANAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=309&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TNT HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TNT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=357&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,GOLDEN
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=317&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FILM ZONE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=321&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DEPELICULA
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=325&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,AMC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=329&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,SPACE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=333&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,SPACE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=369&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,CINECANAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=349&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,CINEMAX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=353&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,GOLDEN EDGE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=361&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,STUDIO UNIVERSAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=373&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ISAT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=377&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TCM
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=381&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ESPN HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=389&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ESPN
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=405&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ESPN 2
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ESPN 3
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FOX SPORTS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FOX SPORTS 2
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,CANAL M
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=417&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TVE INTERNACIONAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=421&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,MTV Live
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=429&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,MTV
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=441&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,MTV HITS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=476&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TELEHIT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=433&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,VH1
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=437&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,RITMOSON
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=445&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,BANDMAX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=449&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,BLOOMBERG
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=457&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,???
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=465&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,???
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=473&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,REALITY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=474&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,PX HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=475&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,1 CLASSIC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=477&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ESTRELLA HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=478&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,AZCORAZON HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=479&lan=2&rows=40&f=.m3u8
