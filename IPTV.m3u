@@ -287,3 +287,6 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=478&lan=2&rows=
 
 #EXTINF:-1,AZCORAZON HD
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=479&lan=2&rows=40&f=.m3u8
+
+#EXTINF: -1, NHK World TV
+http://87.104.131.92:4022/udp/233.138.48.239:5501
